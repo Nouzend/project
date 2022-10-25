@@ -1,0 +1,21 @@
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #9E7676;
+  border-width: 4px;
+  height: 0px;
+  width: 30%;
+}
+
+.top-container{
+  background-color: LightGray;
+}
+
+.middle-container{
+  background-color: LightGray;
+}
+
+.bottom-container{
+height: 245px;
+  background-color: LightGray;
+}
